@@ -7,6 +7,7 @@ To address this issue, Common Correlated Effects Mean Group (CCEMG) estimators a
 The study combines econometric theory, statistical inference, and machine learning to quantify both immediate and delayed revenue responses to promotional activity.
 
 **Key Findings**
+
 • Initial causality results were shown to be spurious due to cross-sectional dependence.
 
 • CCEMG estimation successfully removed common-factor contamination.
