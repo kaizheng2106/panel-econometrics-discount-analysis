@@ -197,13 +197,6 @@ rstats
 
 ---
 
-## Author
-
-Kan Kai Zheng
-
-BSc (Hons) Mathematics and Data Science  
-University of Nottingham Malaysia
-
 Research Interests:
 - Econometrics
 - Statistical Finance
